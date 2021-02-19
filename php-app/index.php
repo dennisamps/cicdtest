@@ -89,8 +89,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations!</h1>
-    <p>Your Docker Container is now running in Elastic Beanstalk on your own dedicated environment in the AWS Cloud.</p>
+    <h1>Congratulations! The update worked :)</h1>
+    <p>Welldone woohoo</p>
   </div>
   
   <div class="linksColumn">
